@@ -8,7 +8,7 @@ export interface ModuleOptions {
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: '@nuxt-module/particles',
+    name: '@nuxt/particles',
     configKey: 'particles'
   },
   defaults: {
