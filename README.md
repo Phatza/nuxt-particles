@@ -2,6 +2,10 @@
 
 This module is created from the [tsparticles (vue3)](https://github.com/matteobruni/tsparticles/tree/main/components/vue3) project.
 
+## Documentation
+
+Check the [API documentation](https://particles.js.org/docs/index.html) for further customizing.
+
 ## Author
 
 **Brice Phatza**
